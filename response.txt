@@ -1,0 +1,1 @@
+{"customerOrders":[{"order":{"orderId":5353601065,"orderStatus":"Entregada","commerce":"Falabella","orderDetails":[{"subOrderId":144042872786,"lineStatus":"Entregada","sku":"6208088"},{"subOrderId":144042872785,"lineStatus":"Entregada","sku":"8001145"},{"subOrderId":144042872786,"lineStatus":"Entregada","sku":"6931975"}]}}],"offset":0,"limit":1,"totalValues":22415}
